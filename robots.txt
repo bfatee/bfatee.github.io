@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bfatee.github.io/aNa/sitemap.aNa.gz
